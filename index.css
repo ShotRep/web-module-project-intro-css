@@ -131,22 +131,22 @@ nav{
 nav a {
  display:inline-block;
  padding: 1% 0;
- width:10%;
+ width:15%;
  border-radius: 10px;
  text-align: center;
  color: white;
 }
 .orange{
 background-color: #ff764e;
-margin-left:10%;
+margin-left:7%;
 }
 .blue{
 background-color:#5ED3EB ;
-margin: 0 24%
+margin: 0 20%
 }
 .yellow{
  background-color:#FCD6F9 ;
-margin-right:10%
+margin-right:5%
 }
 
 /* Top section styles */
@@ -156,7 +156,7 @@ margin-right:10%
 
 .paragraph-sec{
  background:#DDB9A3;
- width: 95%;
+ width: 90%;
  margin: auto;
  border-radius: 15px;
  padding: 20px 30px;
@@ -181,26 +181,53 @@ margin-top: 10px;
 }
 
 .left{ 
- width:40%;
+ width:30%;
+}
+
+.right h1{
+ font-weight: bold;
+}
+.right h2{
+ margin:20px;
+ font-weight: bold;
+}
+.right h3{
+ width:50%;
+ margin:20px auto;
+ font-weight: bold;
+ text-align: center;
 }
 
 .right{
- width:45%;
- margin-left: 50%;
+ width:55%;
+ margin-left: 35%;
  position: absolute;
  top:15%;
+ text-align: center;
 }
 
 .fire{
+ width:25%;
+margin:auto;
+}
 
+.reservation{ 
 width:25%;
 margin:auto;
 }
 
-.reservation{
- 
-width:25%;
-margin:auto;
+.campfire{
+   display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 10%; 
+ }
+
+.camper{
+   display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 10%;
 }
 
 /* background image section */
