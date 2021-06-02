@@ -101,7 +101,7 @@ q {
   padding: 0;
   margin: 0;
   max-width: 100%;
-  border: 1px solid grey; /*will remove when site is ready */
+  /* border: 1px solid grey; will remove when site is ready */
 }
 
 /* General Styles */
@@ -181,6 +181,7 @@ margin-top: 10px;
 }
 
 .left{ 
+ margin-left: 50px;
  width:30%;
 }
 
@@ -193,30 +194,33 @@ margin-top: 10px;
 }
 .right h3{
  width:50%;
- margin:20px auto;
+ margin:10px auto;
  font-weight: bold;
  text-align: center;
 }
 
 .right{
  width:55%;
- margin-left: 35%;
+ margin-left: 40%;
  position: absolute;
  top:15%;
  text-align: center;
 }
 
 .fire{
+ text-align: center;
  width:25%;
-margin:auto;
+margin:20px auto;
 }
 
 .reservation{ 
+ text-align: center;
 width:25%;
-margin:auto;
+margin:20px auto;
 }
 
 .campfire{
+
    display: block;
   margin-left: auto;
   margin-right: auto;
@@ -224,6 +228,7 @@ margin:auto;
  }
 
 .camper{
+  margin-top: 50px;
    display: block;
   margin-left: auto;
   margin-right: auto;
