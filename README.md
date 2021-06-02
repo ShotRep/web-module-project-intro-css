@@ -36,7 +36,7 @@ Once your repository is set up, practice what you learned today to style the sit
 - [ ] Color the background of items in the navigation bar and footer with the following colors:
   - [ ] Plan your Visit: `#FF764E`
   - [ ] Learn About the Park: `#5ED3EB`
-  - [ ] Get Involved: `#FFCD69`
+  - [ ] Get Involved: `#FCD6F9`
 - [ ] Change all font colors and styles according to design file
   - [ ] Yosemite Park Guide font is called Chelsea Market and can be found on [google fonts](https://fonts.google.com/specimen/Chelsea+Market)
   - [ ] All other text is Roboto Mono, also available on [google fonts](https://fonts.google.com/specimen/Roboto+Mono)
