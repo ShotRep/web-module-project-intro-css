@@ -154,6 +154,23 @@ margin-right:10%
  position: relative;
 }
 
+.paragraph-sec{
+ background:#DDB9A3;
+ width: 95%;
+ margin: auto;
+ border-radius: 15px;
+ padding: 20px 30px;
+ color:#f4f4f4;
+}
+
+.top-paragraph{
+margin-bottom: 10px;
+}
+
+.bottom-paragraph{
+margin-top: 10px;
+}
+
 .left img{
  border-radius: 50%;
 }
@@ -181,4 +198,9 @@ margin-right:10%
  background-repeat: no-repeat;
  background-size: cover;
  background-position: top;
+}
+
+/* Footer Section */
+.footer{
+ background-color: #F9E7DC;
 }
