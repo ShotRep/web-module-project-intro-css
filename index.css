@@ -191,6 +191,18 @@ margin-top: 10px;
  top:15%;
 }
 
+.fire{
+
+width:25%;
+margin:auto;
+}
+
+.reservation{
+ 
+width:25%;
+margin:auto;
+}
+
 /* background image section */
 .bottom-img{
  height: 40vh;
